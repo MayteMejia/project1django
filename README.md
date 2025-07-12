@@ -1,5 +1,3 @@
-# Ecoapp
-
 ## Instalar dependencias
 
 - Se recomienda utilizar un entorno virtual (virtualenv)
